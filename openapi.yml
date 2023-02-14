@@ -5,7 +5,6 @@ info:
   description: Vocabulary Test Management System Aco API
 tags:
   - name: student
-  - name: student/  
   - name: vocabook
   - name: school
 paths:
